@@ -15,5 +15,7 @@ function showpanel(panelIndex,colorCode) {
 
     itempanel[panelIndex].style.display="block";
     itempanel[panelIndex].style.backgroundcolor=colorCode;
+}
+    showpanel(0,'#000000')
 
-} 
+ 
