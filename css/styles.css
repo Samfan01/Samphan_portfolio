@@ -71,12 +71,9 @@ li {
 .bio {
     padding:20px;
 }
-
-
 .text img {
       padding-top:5px;
-      float: right;
-      
+      float: right;      
 }
 footer {
     background-color: blue;
